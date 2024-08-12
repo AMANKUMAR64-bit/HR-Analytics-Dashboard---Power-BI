@@ -1,4 +1,4 @@
-# HR Analytics Dashbord - Power BI
+# HR Analytics Dashboard - Power BI
 
 This single-page Power BI dashboard offers a dynamic and comprehensive overview of our employee data. Designed with HR professionals in mind, it provides clear, actionable insights of  ourworkforce composition, including age, gender,educational qualification,job roles,salary slab, job satisfaction and departmental distribution.
 
@@ -40,7 +40,7 @@ The data taken from Kaggle includes multiple columns as an information about emp
  
 * Change Data Types - Converted columns to the appropriate data types to align with the data's nature and improve analysis accuracy.
 
-  ## Dashbord View
+  ## Dashboard View
   ### Main View
   ![Final view](https://github.com/AMANKUMAR64-bit/HR-Analytics-Dashbord---Power-BI/blob/main/IMAGE/main_view.PNG)
   ### Male Employees View
@@ -50,7 +50,7 @@ The data taken from Kaggle includes multiple columns as an information about emp
   ### Female Sales Manager Employees View
   ![Female Sales Manager View](https://github.com/AMANKUMAR64-bit/HR-Analytics-Dashbord---Power-BI/blob/main/IMAGE/female_sales_manager.PNG)
 
-## Extracted Information From The Dashbord
+## Extracted Information From The Dashboard
 ### Metrics :-
 * Total Employee (1470)
 
